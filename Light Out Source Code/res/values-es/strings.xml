@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LucesFuera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">opciones</string>
+    <string name="easy">Facil</string>
+    <string name="normal">Normal</string>
+    <string name="difficult">Dificil</string>
+    <string name="extreme">Extremo</string>
+    <string name="exit">Salir</string>
+    <string name="title_activity_extremo">Extremo</string>
+    <string name="imagen">Imagen</string>
+    <string name="reset">Repetir</string>
+    <string name="Back">Regresar</string>
+    <string name="title_activity_terminado">Terminado</string>
+    <string name="terminado">¡Bien hecho! ¡Felicidades!</string>
+
+</resources>
